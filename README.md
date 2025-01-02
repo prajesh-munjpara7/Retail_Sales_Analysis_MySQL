@@ -1,4 +1,4 @@
-# Retail_Sales_Analysis_MySQL
+# 1. Retail_Sales_Analysis_MySQL
 ### This project involves analyzing a retail sales dataset using SQL. The dataset includes transactional data with details such as sales date, time, customer demographics, and product categories. The project demonstrates querying techniques, data analysis, and insights generation to support business decisions.
 # 2. Objectives
 ### 1. To analyze sales performance across different product categories and customer segments.
